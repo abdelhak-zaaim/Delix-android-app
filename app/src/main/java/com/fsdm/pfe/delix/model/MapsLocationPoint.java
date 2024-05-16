@@ -6,15 +6,6 @@ public class MapsLocationPoint {
     private Double latitude;
     private Double longitude;
 
-    public boolean isValid() {
-        if (latitude < -90 || latitude > 90) {
-            return false;
-        }
-        if (longitude < -180 || longitude > 180) {
-            return false;
-        }
-        return true;
-    }
 
     public MapsLocationPoint(Double latitude, Double longitude) {
         this.latitude = latitude;
