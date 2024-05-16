@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891154420894",
+    "project_id": "delix-ma",
+    "storage_bucket": "delix-ma.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891154420894:android:da8e8caaf47d051992578f",
+        "android_client_info": {
+          "package_name": "com.fsdm.pfe.delix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6fTWQHIuQ-tfha-FvvvDSRY8vBDqlsnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
